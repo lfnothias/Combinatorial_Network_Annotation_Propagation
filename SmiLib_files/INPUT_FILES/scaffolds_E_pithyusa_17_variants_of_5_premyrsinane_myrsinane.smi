@@ -1,0 +1,17 @@
+17,13-oxy-14-oxopremyrsinol_tetrahydroxylated	CC1(C)[C@@]2([H])[C@]1([H])C[C@@H](O[R3])[C@@]([C@]2([H])[C@]34C)(CO4)[C@H](O[R2])[C@@]5([H])[C@@H](O[R1])[C@@H](C)C[C@]5(O[R4])C3=O
+17,13-oxypremyrsinol-pentahydroxylated	CC1(C)[C@@]2([H])[C@]1([H])C[C@@H](O[R3])[C@@]3(CO4)[C@H](O[R2])[C@@]5([H])[C@@H](O[R1])[C@@H](C)C[C@]5(O[R5])[C@@H](O[R4])[C@@]4(C)[C@@]32[H]
+14-oxopremyrsinol_hexahydroxylated	O=C1[C@@](C)(O[R5])[C@@]2([H])[C@]([C@H](O[R4])C[C@@]3([H])[C@]2(C)C3(C)C)(CO[R3])[C@H](O[R2])[C@@]4([H])[C@@H](O[R1])[C@@H](C)C[C@@]41O[R6]
+17,13-oxy-14-oxopremyrsinol_pentahydroxylated	CC1(C)[C@@]2([H])[C@]1([H])C[C@@H](O[R3])[C@@]([C@]2([H])[C@]34C)(CO4)[C@H](O[R2])[C@@]5([H])[C@@H](O[R1])[C@](C)(O[R5])C[C@]5(O[R4])C3=O
+17,13-oxypremyrsinol-hexahydroxylated	CC1(C)[C@@]2([H])[C@]1([H])C[C@@H](O[R3])[C@@]3(CO4)[C@H](O[R2])[C@@]5([H])[C@@H](O[R1])[C@](C)(O[R6])C[C@]5(O[R5])[C@@H](O[R4])[C@@]4(C)[C@@]32[H]
+14-oxopremyrsinol_heptahydroxylated	O=C1[C@@](C)(O[R5])[C@@]2([H])[C@]([C@H](O[R4])C[C@@]3([H])[C@]2(C)C3(C)C)(CO[R3])[C@H](O[R2])[C@@]4([H])[C@@H](O[R1])[C@](C)(O[R7])C[C@@]41O[R6]
+17,13-oxy-14-oxopremyrsinol_trihydroxylated	CC1(C)[C@@]2([H])[C@]1([H])CC[C@@]([C@]2([H])[C@]34C)(CO4)[C@H](O[R2])[C@@]5([H])[C@@H](O[R1])[C@@H](C)C[C@]5(O[R3])C3=O
+17,13-oxypremyrsinol-tetrahydroxylated	CC1(C)[C@@]2([H])[C@]1([H])CC[C@@]3(CO4)[C@H](O[R2])[C@@]5([H])[C@@H](O[R1])[C@@H](C)C[C@]5(O[R4])[C@@H](O[R3])[C@@]4(C)[C@@]32[H]
+14-oxopremyrsinol_pentahydroxylated	O=C1[C@@](C)(O[R4])[C@@]2([H])[C@](CC[C@@]3([H])[C@]2(C)C3(C)C)(CO[R3])[C@H](O[R2])[C@@]4([H])[C@@H](O[R1])[C@@H](C)C[C@@]41O[R5]
+14-oxomyrsinol-pentahydroxylated	C[C@@]1(O[R5])C[C@@]2(O[R4])[C@]([C@@H](O[R2])[C@@]([C@H](O[R3])C=C[C@@H]3C(C)=C)(CO4)[C@]3([H])[C@]4(C)C2=O)([H])[C@H]1O[R1]
+14-oxomyrsinol-tetrahydroxylated	O=C1[C@@]2(C)[C@@]3([H])[C@]([C@H](O[R3])C=C[C@@H]3C(C)=C)(CO2)[C@H](O[R2])[C@@]4([H])[C@@H](O[R1])[C@@H](C)C[C@@]41O[R4]
+myrsinol-hexahydroxylated	C[C@@]1(O[R6])C[C@@]2(O[R5])[C@]([C@@H](O[R2])[C@@]([C@H](O[R3])C=C[C@@H]3C(C)=C)(CO4)[C@]3([H])[C@]4(C)[C@@H]2O[R4])([H])[C@H]1O[R1]
+myrsinol-pentahydroxylated	C[C@H]1C[C@@]2(O[R5])[C@]([C@@H](O[R2])[C@@]([C@H](O[R3])C=C[C@@H]3C(C)=C)(CO4)[C@]3([H])[C@]4(C)[C@@H]2O[R4])([H])[C@H]1O[R1]
+10,18-dihydro-14-oxomyrsinol-hexahydroxylated	C[C@@]1(O[R6])C[C@@]2(O[R5])[C@]([C@@H](O[R2])[C@@]([C@H](O[R3])C=C[C@@H]3C(C)(O[R4])C)(CO4)[C@]3([H])[C@]4(C)C2=O)([H])[C@H]1O[R1]
+10,18-dihydro14-oxomyrsinol-pentahydroxylated	O=C1[C@@]2(C)[C@@]3([H])[C@]([C@H](O[R3])C=C[C@@H]3C(C)(O[R4])C)(CO2)[C@H](O[R2])[C@@]4([H])[C@@H](O[R1])[C@@H](C)C[C@@]41O[R5]
+10,18-dihydro-myrsinol-heptahydroxylated	C[C@@]1(O[R7])C[C@@]2(O[R6])[C@]([C@@H](O[R2])[C@@]([C@H](O[R3])C=C[C@@H]3C(C)(O[R4])C)(CO4)[C@]3([H])[C@]4(C)[C@@H]2O[R5])([H])[C@H]1O[R1]
+10,18-dihydro-myrsinol-hexahydroxylated	C[C@H]1C[C@@]2(O[R6])[C@]([C@@H](O[R2])[C@@]([C@H](O[R3])C=C[C@@H]3C(C)(O[R4])C)(CO4)[C@]3([H])[C@]4(C)[C@@H]2O[R5])([H])[C@H]1O[R1]
