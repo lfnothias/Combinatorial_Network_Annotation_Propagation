@@ -1,6 +1,6 @@
 # Combinatorial Network Annotation Propagation (C-NAP) on GNPS
 
-<img src="IMG/C-NAP_logo_small.png"/>
+<img src="IMG/C-NAP_Logo_slide_small.png"/>
 
 * [Introduction](#introduction)
 * [Step-by-Step documentation for C-NAP](#Step-by-Step_documentation_for_C-NAP)
@@ -10,12 +10,18 @@
 
 Creating a combinatorial structure database to be used with Network Annotation Propagation (NAP) on GNPS. This approach can be used to generate a list of theoritical compounds that can be used for in silico annotation with molecular networks. It is suited for class of metabolites with a limited number of building blocks. We successfully employed C-NAP for the annotation of Euphorbia diterpene esters, and rapidly annotate numerous diterpene esters, including compounds that have not yet been described. Nevertheless, C-NAP can be applied only on a species/sample with a minimum knowledge available on the composition (e.g., the isolated compounds, reference MS/MS spectra, and chemotaxonomy). See the manuscript for more details.
 
-Presented in the following publication:
-Meĺissa Nothias- Esposito, Louis Felix Nothias, Ricardo R. DaSilva, Pascal Retailleau, Zheng Zhang, Pieter Leyssen, Fanny Roussi, David Touboul, Julien Paolini, Pieter C. Dorrestein, and Marc Litaudon. J. Nat. Prod. 2019. 
+**Graphical Abstract from the manuscript**
+
+<img src="IMG/graphical abstract_v201905_v3_smaller.png"/>
+
 
 **Figure from the manuscript. Molecular networks annoted with C-NAP. View in Cytoscape.**
 
 <img src="IMG/C-NAP_manuscript_subfigure.png"/>
+
+**Presented in the following publication:**
+
+Meĺissa Nothias- Esposito, Louis Felix Nothias, Ricardo R. Da Silva, Pascal Retailleau, Zheng Zhang, Pieter Leyssen, Fanny Roussi, David Touboul, Julien Paolini, Pieter C. Dorrestein, and Marc Litaudon. Investigation of Premyrsinane and Myrsinane Esters in Euphorbia cupanii and Euphobia pithyusa with MS2LDA and Combinatorial Molecular Network Annotation Propagation. J. Nat. Prod. 2019 ASAP. 
 
 ## Step-by-Step documentation for C-NAP
 ### 1. Prepare the Combinatorial Structure DataBase (CSDB)
@@ -34,7 +40,7 @@ Meĺissa Nothias- Esposito, Louis Felix Nothias, Ricardo R. DaSilva, Pascal Ret
 
 ## Citations
 Presented in the following publication:
-Meĺissa Nothias- Esposito, Louis Felix Nothias, Ricardo R. DaSilva, Pascal Retailleau, Zheng Zhang, Pieter Leyssen, Fanny Roussi, David Touboul, Julien Paolini, Pieter C. Dorrestein, and Marc Litaudon. J. Nat. Prod. 2019. 
+Meĺissa Nothias-Esposito, Louis Felix Nothias, Ricardo R. Da Silva, Pascal Retailleau, Zheng Zhang, Pieter Leyssen, Fanny Roussi, David Touboul, Julien Paolini, Pieter C. Dorrestein, and Marc Litaudon. Investigation of Premyrsinane and Myrsinane Esters in Euphorbia cupanii and Euphobia pithyusa with MS2LDA and Combinatorial Molecular Network Annotation Propagation. J. Nat. Prod. 2019 ASAP. 
 
 Structure were generated with SmiLib:
 Schüller, A., Hähnke, V. & Schneider, G. SmiLib v2.0: A Java-Based Tool for Rapid Combinatorial Library Enumeration. QSAR Comb. Sci. 26, 407–410 (2007).
