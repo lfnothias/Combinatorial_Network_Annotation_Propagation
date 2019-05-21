@@ -1,6 +1,6 @@
 # Combinatorial Network Annotation Propagation (C-NAP) on GNPS
 
-<img src="IMG/C-NAP_logo_smallest.png"/>
+<img src="IMG/C-NAP_logo_small.png"/>
 
 * [Introduction](#introduction)
 * [Step-by-Step documentation for C-NAP](#Step-by-Step_documentation_for_C-NAP)
